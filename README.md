@@ -67,4 +67,4 @@ Four industry-standard metrics were defined with formulas, usage guidance, and t
 
 ## 📬 Contact
 
-For questions regarding this submission, please contact: **your.email@example.com**
+For questions regarding this submission, please contact: ruknuddin.asrari@thecareerinsights.com
